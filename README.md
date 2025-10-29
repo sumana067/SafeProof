@@ -39,3 +39,4 @@ SafeProof helps you:
 ---
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/458b0dba-52cf-4f60-8cc2-0dabd9f2e2fd" />
 
+contract address: 0xD947e0e25902847587C9C8287e9A5eCa42032C1A
